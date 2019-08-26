@@ -1,0 +1,22 @@
+[{
+	"rollNo": 101,
+	"studentName": "Roger",
+	"maths": 78,
+	"physics": 67,
+	"chemistry": 75,
+	"english": 70
+}, {
+	"rollNo": 102,
+	"studentName": "Mike",
+	"maths": 82,
+	"physics": 75,
+	"chemistry": 72,
+	"english": 80
+}, {
+	"rollNo": 103,
+	"studentName": "Steve",
+	"maths": "78",
+	"physics": "67",
+	"chemistry": "75",
+	"english": "70"
+}]
