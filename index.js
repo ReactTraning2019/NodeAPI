@@ -72,7 +72,7 @@ app.post('/insertScore', express.json(), (req, res) => {
     
 });
 
-app.listen(3000);
+app.listen(3001);
 
 database.connectToDatabase((err, db) => {
     if(err) {
